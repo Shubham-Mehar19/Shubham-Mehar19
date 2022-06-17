@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <align="center">  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">! I'm SHUBHAM MEHAR</h1>
 
 
-<h3 align="center"><i>DATA SCIENCE FRESHER</i></h3>
+<h2 align="center"><i>DATA SCIENCE FRESHER</i></h3>
 
 
 <div align="center">
@@ -15,22 +15,30 @@
 
 <br>
 
-#### I'm a data science enthusiast who loves open source programs and tools.
-
-#### I have studied and, more recently, worked with python, data science and machine learning algorithms focused in data analytics and business solutions. For more details about my projects and each solution, you can check my github repositories.
+<h3> I'm a data science enthusiast who loves open source programs and tools.
+<h3>
+I have studied and, more recently, worked with python, data science and machine learning algorithms focused in data analytics and business solutions. For more details about my projects and each solution, you can check my github repositories.</h3>
 
 ### SKILLS
+<h3>
 
 * **PYTHON** (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+
 * **Data Wrangling and Analysis**
+
 * **Data Visualization**
+
 * **Machine Learning**
+
 * **Advance Excel**
-* **SQL (MySQL)**
+
+* **SQL (MySQL)**</h3>
 
 ### Talking about Personal Stuffs:
+<h3>
 
 - 🛠 &nbsp; I’m currently working with Python, SQl and Excel 
+
 - 🚀 &nbsp; I’m currently learning Power Bi .
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shubham-Mehar19).
 - 📫 &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-mehar-556601169/)&nbsp;&nbsp;
