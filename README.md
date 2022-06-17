@@ -11,7 +11,7 @@
 
 </div>
 
-## Looking for oppurtunity in Data Analytic/Business Analytics.
+## Looking for opportunity in Data Analytic/Business Analytics.
 
 <br>
 
@@ -23,22 +23,16 @@ I have studied and, more recently, worked with python, data science and machine 
 <h3>
 
 * **PYTHON** (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
-
 * **Data Wrangling and Analysis**
-
 * **Data Visualization**
-
 * **Machine Learning**
-
 * **Advance Excel**
-
 * **SQL (MySQL)**</h3>
 
 ### Talking about Personal Stuffs:
 <h3>
 
 - 🛠 &nbsp; I’m currently working with Python, SQl and Excel 
-
 - 🚀 &nbsp; I’m currently learning Power Bi .
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shubham-Mehar19).
 - 📫 &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-mehar-556601169/)&nbsp;&nbsp;
