@@ -34,7 +34,7 @@ I have studied and, more recently, worked with python, data science and machine 
 
 - 🛠 &nbsp; I’m currently working with Python, SQl and Excel 
 - 🚀 &nbsp; I’m currently learning Power Bi .
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shubham-Mehar19).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/Shubham-Mehar19](https://github.com/Shubham-Mehar19?tab=repositories)).
 - 📫 &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-mehar-556601169/)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:shubhammehar95@gmail.com)](mailto:shubhammehar95@gmail.com)&nbsp;&nbsp;
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Shubham-Mehar19/Shubham-Mehar19/blob/main/PROFILE/SHUBHAM%20MEHAR%20DS.pdf).
