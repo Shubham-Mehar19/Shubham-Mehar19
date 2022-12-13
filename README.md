@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <align="center">  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">! I'm SHUBHAM MEHAR</h1>
 
 
-<h2 align="center"><i>DATA SCIENCE FRESHER</i></h3>
+<h2 align="center"><i></i></h3>
 
 
 <div align="center">
