@@ -38,6 +38,7 @@ I have studied and, more recently, worked with python, data science and machine 
 - 📫 &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-mehar-556601169/)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:shubhammehar95@gmail.com)](mailto:shubhammehar95@gmail.com)&nbsp;&nbsp;
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Shubham-Mehar19/Shubham-Mehar19/blob/main/PROFILE/SHUBHAM%20MEHAR%20DS.pdf).
+  - 📝 &nbsp; Checkout my [Certificates](https://github.com/Shubham-Mehar19/Shubham-Mehar19/blob/main/PROFILE/SHUBHAM%20MEHAR%20DS.pdf).
 
 ### Languages and Tools:
 ![python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;&nbsp;
