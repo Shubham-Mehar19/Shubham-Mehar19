@@ -27,6 +27,7 @@ I have studied and, more recently, worked with python, data science and machine 
 * **Data Visualization**
 * **Machine Learning**
 * **Advance Excel**
+* **Power BI**
 * **SQL (MySQL)**</h3>
 
 ### Talking about Personal Stuffs:
