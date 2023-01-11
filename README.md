@@ -34,13 +34,13 @@ I have studied and, more recently, worked with python, data science and machine 
 <h3>
 
 - 🛠 &nbsp; I’m currently working with Python, SQl and Excel 
-- 🚀 &nbsp; I’m currently learning Power Bi .
+- 🚀 &nbsp; I’m currently learning Power BI and SQL .
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shubham-Mehar19?tab=repositories).
 - 📫 &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-mehar-556601169/)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:shubhammehar95@gmail.com)](mailto:shubhammehar95@gmail.com)&nbsp;&nbsp;
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Shubham-Mehar19/Shubham-Mehar19/blob/main/RESUME/SHUBHAM%20MEHAR%20RESUME__.pdf).
-- 📝 &nbsp; Checkout my [Certificates](https://github.com/Shubham-Mehar19/Shubham-Mehar19/tree/main/CERTIFICATES).
-- 📝 &nbsp; Checkout my [Power BI Projects](https://www.novypro.com/profile_projects/member----2327).
+- :page_with_curl: &nbsp; Checkout my [Certificates](https://github.com/Shubham-Mehar19/Shubham-Mehar19/tree/main/CERTIFICATES).
+- :bar_chart: &nbsp; Checkout my [Power BI Projects](https://www.novypro.com/profile_projects/member----2327).
   
 ### Languages and Tools:
 ![python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;&nbsp;
